@@ -1,0 +1,40 @@
+header{
+    width: auto;
+    margin: auto;
+    height: 50px;
+    border: solid 1px black;
+    text-align: center;
+    color: white;
+    background-color: blue ;
+}
+
+nav{
+    width: auto;
+    margin: auto;
+    height: 50px;
+    border: solid 1px black;
+    text-align: right;
+    background-color: #08C30D  ;
+}
+
+article{
+    width: auto;
+    margin: auto;
+    height: 600px;
+    border: solid 1px black;
+}
+
+footer{
+    width: auto;
+    margin: auto;
+    height: 50px;
+    border: solid 1px black;
+    background-color: #08C30D  ;
+}
+
+#cognizant-image{
+    width: 100px;
+    height: 50px;
+    float: left;
+}
+
